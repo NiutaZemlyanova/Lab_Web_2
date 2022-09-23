@@ -1,0 +1,37 @@
+*{
+	margin: 0;
+}
+
+
+.blue {
+	background-color: aqua;
+	float: left;
+	margin: 5px;
+}
+
+.or {
+	background-color: bisque;
+	width: 200px;
+	height: 85px;
+	font-size: 16px;
+}
+
+ul {
+	padding-top: 15px;
+}
+
+.text {
+	background-color: darkgray;	
+	margin-left: 200px;
+	margin-top: -85px;
+	font-size: 16px;
+	line-height: 120%;	
+}
+
+footer {
+	background-color: limegreen;
+	position: fixed;
+	bottom: 0;
+	width: 100em;
+	height: 40px;
+}
